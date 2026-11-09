@@ -1,0 +1,10 @@
+[package]
+name = "discord-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dirs = "6"
+open = "5"
+tao = "0.34"
+wry = { version = "0.57", features = ["devtools"] }
